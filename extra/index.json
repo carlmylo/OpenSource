@@ -10,6 +10,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "example", "examples", "test" ],
+			"names": {
+				"en-US": "Example and Test Charts"
+			},
+			"icon": "example",
+			"type": "custom"
+		},
+		{
 			"ids": [ "djhero", "djh" ],
 			"names": {
 				"en-US": "DJ Hero"
@@ -986,6 +994,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "teminite" ],
+			"names": {
+				"en-US": "Teminite"
+			},
+			"icon": "teminite",
+			"type": "custom"
+		},
+		{
 			"ids": [ "vortex_hero" ],
 			"names": {
 				"en-US": "Vortex Hero"
@@ -1287,7 +1303,7 @@
 			"type": "custom"
 		},
 		{
-			"ids": [ "fretsmasher" ],
+			"ids": [ "fretsmasher", "fret smasher" ],
 			"names": {
 				"en-US": "Fret Smasher"
 			},
@@ -1399,6 +1415,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "donnaken15" ],
+			"names": {
+				"en-US": "donnaken15's Customs"
+			},
+			"icon": "dk15",
+			"type": "charter"
+		},
+		{
 			"ids": [ "gze1" ],
 			"names": {
 				"en-US": "Guitar Zero Encore 1: Rocks the '70s"
@@ -1412,15 +1436,56 @@
 				"en-US": "Encore"
 			},
 			"icon": "encore",
+			"type": "custom"			
+		},
+		{
+		    "ids": [ "lanebreakers" ],
+		    "names": {
+		        "en-US": "Lane Breakers"
+		    },
+		    "icon": "lanebreakers",
+		    "type": "custom"
+		},
+		{
+			"ids": [ "emotion" ],
+			"names": {
+				"en-US": "Emotional Rollercoaster"
+			},
+			"icon": "emotion",
 			"type": "custom"
 		},
 		{
-			"ids": [ "rbee" ],
+			"ids": [ "indp" ],
+			"names": {
+				"en-US": "Indiependence Day"
+			},
+			"icon": "indp",
+      "type": "custom"
+    },
+    {
+			"ids": [ "idta" ],
+			"names": {
+				"en-US": "Initial D The Arcade Setlist",
+				"pt-BR": "Setlist do Initial D The Arcade",
+				"ja-JP": "頭文字D、ジ・アーケード せとりすと"
+			},
+			"icon": "idta",
+			"type": "custom"
+		},
+		{
+      "ids": [ "airheads" ],
+      "names": {
+        "en-US": "AIRheads"
+      },
+      "icon": "airheads",
+      "type": "custom"
+    },
+    	"ids": [ "rbee" ],
 			"names": {
 				"en-US": "Rock Band en Español"
 			},
 			"icon": "rbee",
 			"type": "custom"
-		},
+		}
 	]
 }

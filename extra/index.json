@@ -1460,9 +1460,9 @@
 				"en-US": "Indiependence Day"
 			},
 			"icon": "indp",
-      "type": "custom"
-    },
-    {
+      		"type": "custom"
+    	},
+    	{
 			"ids": [ "idta" ],
 			"names": {
 				"en-US": "Initial D The Arcade Setlist",
@@ -1473,14 +1473,15 @@
 			"type": "custom"
 		},
 		{
-      "ids": [ "airheads" ],
-      "names": {
-        "en-US": "AIRheads"
-      },
-      "icon": "airheads",
-      "type": "custom"
-    },
-    	"ids": [ "rbee" ],
+      		"ids": [ "airheads" ],
+      		"names": {
+        		"en-US": "AIRheads"
+      		},
+      		"icon": "airheads",
+      		"type": "custom"
+    	},
+		{
+    		"ids": [ "rbee" ],
 			"names": {
 				"en-US": "Rock Band en Español"
 			},
